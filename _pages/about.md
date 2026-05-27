@@ -16,79 +16,73 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxyuan/index.htm) at the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). Previously, I received my B.Eng. degree from the [Department of Control Science and Engineering](https://cse.tongji.edu.cn/), [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15580a158568/page.htm).
+I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/lidong-yang) at the [Department of Industrial and Systems Engineering](https://www.polyu.edu.hk/ise/), [Hong Kong PolyTechnic University], supervised by Prof. [Lidong Yang](https://www.polyu.edu.hk/ise/people/academic-staff/lidong-yang/). Previously, I received my Master's degree from the [School of Mechanical Engineering](https://mefaculty.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Yutian Zhu](https://mefaculty.tongji.edu.cn/info/1296/3243.htm).
 
-**Recent focus:** AI-Driven Healthcare, Embodied Intelligence for Medical Robotics, Robotic Interventional Therapy.
+**Recent focus:** AI-Driven Magnetic Micro/nanorobot navigation and control.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.05*: I pass the Ph.D. screening test (Committee: Prof. [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/), Prof. [Jiewen Lai](https://samlai.me/)).
-- *2025.08*: I start my Ph.D. journey at AIM Group, CUHK EE.
+- *2026.06*: A paper is accepted by IJRR!
+- *2025.12*: I pass the Ph.D. confirmation test.
+- *2024.01*: I start my Ph.D. journey at MRS Lab, PolyU ISE.
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
 (†: equal contribution)<br>
 
 **Journal**
-- **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
-  **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sébastien Ourselin, Kaspar Althoefer, Junbo Ge, Peng Qi<br>
-  IEEE Reviews in Biomedical Engineering (RBME), 2026. (JCR Q1, IF: 12.0, Acceptance rate: 6%)<br>
+- **Actuation-Constrained Control Framework for Optimal Microswarm Navigation with Swarm Stability Guarantee**<br>
+  **Xiangyu Chu†, **Yamei Li**†, Yunxi Tang, Yangmin Li, Lidong Yang<br>
+  The International Journal of Robotics Research (IJRR), 2026. (JCR Q1, IF: 5.0, Accepted)<br>
   <span style="color:#d32f2f">(**Featured Article**)
-- **Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics**<br>
-  **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, Peng Qi<br>
-  IEEE Transactions on Fuzzy Systems (T-FS), 2025. (JCR Q1, IF: 11.9)<br>
-- **Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions**<br>
-   **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi<br>
-   IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 6.4)<br>
-   (**IROS 2025 Oral**)
-
+- **Machine Learning Achieves Accurate and Smooth Navigation Control for Microrobots**<br>
+  **Yamei Li**, Ruijian Ge, Yun Wang, Yangmin Li, Lidong Yang<br>
+  IEEE Transactions on Automation Science and Engineering (TSAE), 2026. (JCR Q1, IF: 6.4)<br>
+  (**IROS 2025 Oral**)
+- **A Hierarchical Framework for Real-Time Path Planning of Microswarm in Dynamic Environments**<br>
+   **Yamei Li**, Ruijian Ge, Aoji Zhu, Jiachi Zhao, Danjing Shi, Yangmin Li, Lidong Yang<br>
+   IEEE Robotics and Automation Letters (RAL), 2026. (JCR Q1, IF: 5.3)<br>
+   (**ICRA 2026 Poster**, **IEEE ICRA RAS Travel Grant Award**)
+- **Automated Magnetic Microrobot Control: From Mathematical Modeling to Machine Learning**<br>
+   **Yamei Li**, Yingxin Huo, Xiangyu Chu, Yangmin Li, Lidong Yang<br>
+   Mathematics, 2025. (JCR Q1, IF: 2.2)<br>
+   
 **Conference**
-- **Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions**<br>
-  **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi<br>
+- **Learning-Based Motion Controller for Reconfigurable Microswarms**<br>
+  **Yamei Li**, Yunxi Tang, Yun Wang, Yangmin Li, Lidong Yang<br>
    IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025. (**Oral**)
-- **Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**<br>
-  **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi<br>
-  IEEE International Conference on Robotics and Automation (ICRA), Atlanta, USA, 2025.<br>
-  <span style="color:#d32f2f">(**IEEE ICRA RAS Travel Grant Award**)</span>
-- **A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties**<br>
-  Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>
-  IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Sanya, China, 2023.<br>
-  <span style="color:#d32f2f">(**Best Conference Paper Finalist**)</span>
+  <span style="color:#d32f2f">(**IEEE IROS RAS Travel Grant Award**)</span>
 
 <span class='anchor' id='services'></span>
 # 🎖 Selected Services
 **Journal Reviewer**
-- The Innovation (JCR Q1, IF: 25.7)
-- IEEE Transactions on Fuzzy Systems (T-FS) (JCR Q1, IF: 11.9)
-- Medical Image Analysis (MedIA) (JCR Q1, IF: 11.8)
-- IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
-- IEEE Transactions on Artificial Intelligence (T-AI)
 - IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
 
 **Conference Reviewer**
 - IEEE International Conference on Robotics and Automation (ICRA), 2026
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025-2026
-- IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2026
-- International Conference on Information Processing in Computer-Assisted Interventions (IPCAI), 2026
-- IEEE International Conference on Multimedia & Expo (ICME), 2026
-- IEEE International Symposium on Circuits and Systems (ISCAS), 2026
-- IEEE International Joint Conference on Neural Networks (IJCNN), 2025-2026
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026
+
 
 <span class='anchor' id='ta'></span>
 # 📖 Teaching Assistant
-- ENGG5202: Pattern Recognition, 2025-2026 Spring.
-- ELEG4512: Digital Image Processing, 2025-2026 Fall.
+- ISE3018: Logistics Automation, 2025-2026 Spring.
+- ISE5312: Industrial Human-Robot Systems and Automation, 2025-2026 Fall.
 
 # 🏆 Selected Honors and Awards
-- The Pursuit of Excellence Scholarship (the highest honor), Tongji University, 2024 & 2025.
-- Outstanding Undergraduate Thesis Award, Tongji University, 2025.
-- Outstanding Graduate, Tongji University, 2025.
-- IEEE ICRA 2025 RAS Travel Grant Award, 2025.
-- Baosteel Scholarship Special Award (15 undergraduates nationwide), 2024.
-- Academic Star Pacesetter (the highest honor for undergraduates), Tongji University, 2024.
-- Qi Di Scholarship (the highest honor of the College), Tongji University, 2024.
-- Best Conference Paper Finalist, IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.
-- National First Prize (Team Leader), “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work (Research Track), 2023. 
-- Gold Prize, The 6th China (Shanghai) International Exhibition of Inventions, 2023.
+- IEEE ICRA RAS Travel Grant Award, Oct. 2026
+- IEEE IROS RAS Travel Grant Award, May. 2025
+- Tongji University Outstanding Graduate Student Scholarship (top 5%, 2 times), 2019-2021
+- Tongji University Excellent Student (top 5%, 2 times), 2019-2021
+- 2nd Prize in “HUAWEI Cup” The 16th National Post-Graduate Mathematical Contest in Modeling, Dec. 2019
+- Outstanding Undergraduate Thesis Award of Shanghai Ocean University, Jun. 2019
+- 1st Prize of Shanghai Ocean University Scholarship of Excellence (top 5%, 7 times), 2015-2019
+- Shanghai Scholarship by Shanghai Municipal Education Commission (top 1%, 3 times), 2016-2018
+- Zhuyuanding Scholarship of Shanghai Ocean University (top 1.02%, 3 times), 2016-2018
+- Outstanding students pacesetter of Shanghai Ocean University (top 4%, 3 times), 2015-2018
+- 2nd Prize in Mathematics Competition of National College Students, Dec. 2018
+- 2nd Prize in National Ocean Vehicle Design and Production Competition, Feb. 2018
+- 2nd Prize in National Student Mathematical Contest In Modeling (Shanghai), Dec. 2017
+- 1st National Student Mechanical Innovation Design Competition (Shanghai), May. 2016
+
 
 <a href='https://mapmyvisitors.com/web/1byr7'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=P_j5NmoygM3uhcWirSjS9X1L1wIFmErKg8e9GxZQA5Y'/></a>
