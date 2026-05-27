@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/lidong-yang) at the [Department of Industrial and Systems Engineering](https://www.polyu.edu.hk/ise/), [Hong Kong PolyTechnic University], supervised by Prof. [Lidong Yang](https://www.polyu.edu.hk/ise/people/academic-staff/lidong-yang/). Previously, I received my Master's degree from the [School of Mechanical Engineering](https://mefaculty.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Yutian Zhu](https://mefaculty.tongji.edu.cn/info/1296/3243.htm).
+I am currently a Ph.D. Candidate at the [MRS Lab](https://www.x-mol.com/groups/lidong-yang) at the [Department of Industrial and Systems Engineering](https://www.polyu.edu.hk/ise/), Hong Kong PolyTechnic University, supervised by Prof. [Lidong Yang](https://www.polyu.edu.hk/ise/people/academic-staff/lidong-yang/). Previously, I received my Master's degree from the [School of Mechanical Engineering](https://mefaculty.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Yutian Zhu](https://mefaculty.tongji.edu.cn/info/1296/3243.htm).
 
 **Recent focus:** AI-Driven Magnetic Micro/nanorobot navigation and control.
 
